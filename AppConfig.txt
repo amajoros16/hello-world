@@ -8,3 +8,4 @@ Another property line 6
 Attila's own stuff
 Some property line 9 
 Some property line 10 
+Some property added by MCT-6 - shouldnt check it in
