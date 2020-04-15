@@ -1,0 +1,6 @@
+This file is like the app config files
+We want to check it in once but have my version locally , and ignore it after
+
+Common Stuff:
+Some property line 5
+Another property line 6
