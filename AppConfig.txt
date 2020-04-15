@@ -4,3 +4,7 @@ We want to check it in once but have my version locally , and ignore it after
 Common Stuff:
 Some property line 5
 Another property line 6
+
+Attila's own stuff
+Some property line 9 
+Some property line 10 
